@@ -36,11 +36,6 @@ To automatically control street light LEDs using:
 
 ---
 
-## 🧩 Block Diagram
-*(Add block diagram image here if available)*
-
----
-
 ## 🛠️ Hardware Requirements
 - LPC2148 Microcontroller  
 - LCD Display  
